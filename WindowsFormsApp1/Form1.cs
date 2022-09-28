@@ -56,7 +56,7 @@ namespace WindowsFormsApp1
             if (Index.Equals(2))
             {
                 label4.Text = "X*";
-                label5.Text = "Y*";
+                label5.Text = "+Y*";
                 label6.Text = "=";
                 label6.Show();
                 label7.Show();
